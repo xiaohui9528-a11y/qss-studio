@@ -35,6 +35,8 @@ pip install -r requirements.txt
 python qss_designer.py
 ```
 
+Windows 用户也可以直接双击 `启动QSSStudio.bat` 一键启动（需已安装 Python 与 PySide6）。
+
 ## 打包为单文件 exe（免安装绿色版）
 
 ```bash
