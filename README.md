@@ -4,7 +4,7 @@
 
 纯 Python 单文件实现，基于 PySide6。
 
-<!-- 建议：在此放一张软件界面截图，例如 ![界面截图](docs/screenshot.png) -->
+![QSS Studio 界面截图](docs/screenshot.png)
 
 ## 功能特性
 
